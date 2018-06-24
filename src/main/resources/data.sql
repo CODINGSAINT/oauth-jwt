@@ -1,1 +1,0 @@
-INSERT INTO USERS (ID,USERNAME,PASSWORD) values (1,'kumarpallav@kumarpallav.in','$2a$10$dL1HrTUyB6uOOW3tAbx5reKugAzoO/CtkKo8I1vYusxEFWRZjYIHm');
